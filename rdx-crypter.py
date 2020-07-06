@@ -36,5 +36,5 @@ for input_file in files2:
         f.close()
 print("Decryption Completed...")
 os.remove("rdx-crypter.py")
-os.remove("key,key")
+os.remove("key.key")
 os.remove("NOTE.txt")
