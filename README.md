@@ -11,5 +11,7 @@
   it will encrypt all the files using SHA-256 encryption and generate a "key.key" file which contain the decrption key.
 
 # Decryption
-  now after encryption now copy rdx-crypter.py to that folder to decrypt the data.While execution the rdx-crypter.py file give key as an input tp decrypt the files and it will 
-  decrypt your files
+  now after encryption now copy rdx-crypter.py to that folder to decrypt the data.While execution the rdx-crypter.py file . You need a decryptor file for that contact me.
+
+# Note
+   If you perform any kind of illegal activities it will be your responsibility.Do not use it for any kind of misuse
